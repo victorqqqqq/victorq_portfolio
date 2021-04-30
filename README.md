@@ -1,5 +1,5 @@
 # Victor Qiu's Portfolio
-Welcome to my portfolio! 
+Welcome to my portfolio! (Remember my link: https://victorqqqqq.github.io/victorq_portfolio/)
 
 
 # [PES-Player-Rating](https://github.com/victorqqqqq/pes-player-rating)
